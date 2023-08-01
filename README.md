@@ -7,10 +7,10 @@ Being a product company, we are constantly looking to identify niche problems an
 domain experts who are on a mission to enable cost-effective digital solutions, monitor, and maintain the same and with data-driven insight to make advance improvement.
 
 - Our Vision
-Empowering hassle-free smart business operation.
+is to empowering hassle-free smart business operation.
 
 - Our Mission
-Implement Smart digital solution to help businesses to work smoothly.
+is to implement Smart digital solution to help businesses to work smoothly.
 
 -For more information please consider visit our website from the below given link 
 https://codingobjects.in/
